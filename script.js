@@ -23,3 +23,4 @@ document.addEventListener('DOMContentLoaded', function() {
         chatBox.innerHTML += '<p class="message">' + message + '</p>';
     });
 });
+ 
